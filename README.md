@@ -1,6 +1,25 @@
-# Library_Management
-Library Management System (Java)
+# Library Management Application
+A library management application developed using Java
 
+An application created using pure Java only.
+
+## Contents
+#### User
+- Book Details
+- Borrow
+- Return
+
+#### Admin
+- Book Details
+- Borrow Detail
+- Return Detail
+- Search Book
+
+### How to run the template
+- Install Eclipse
+- Run the application.
+
+A application for library managing such as user borrowing books, searching books and admin checking borrowed books,etc.
 
 ![Image1](https://user-images.githubusercontent.com/95492327/220472550-a90e58eb-a80b-4a21-a844-3683fb45a67e.png)
 ![image2](https://user-images.githubusercontent.com/95492327/220472554-3b1cab4a-5204-4948-8a77-53d7e4993e00.png)
@@ -12,3 +31,7 @@ Library Management System (Java)
 ![image8](https://user-images.githubusercontent.com/95492327/220472576-27899573-89a3-43a8-8a84-cb543292ebc0.png)
 ![image9](https://user-images.githubusercontent.com/95492327/220472579-07d39554-9ee9-4964-8d42-91ea6a78290e.png)
 ![image10](https://user-images.githubusercontent.com/95492327/220472581-fbec7082-6258-456d-9fda-08c6c78476b4.png)
+
+Feel free to use my code and enjoy coding ❤
+
+
